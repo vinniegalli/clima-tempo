@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/clima-tempo/static/css/main.4c87313f.css",
-    "main.js": "/clima-tempo/static/js/main.ba84cb26.js",
+    "main.js": "/clima-tempo/static/js/main.0fa6413f.js",
     "index.html": "/clima-tempo/index.html",
     "main.4c87313f.css.map": "/clima-tempo/static/css/main.4c87313f.css.map",
-    "main.ba84cb26.js.map": "/clima-tempo/static/js/main.ba84cb26.js.map"
+    "main.0fa6413f.js.map": "/clima-tempo/static/js/main.0fa6413f.js.map"
   },
   "entrypoints": [
     "static/css/main.4c87313f.css",
-    "static/js/main.ba84cb26.js"
+    "static/js/main.0fa6413f.js"
   ]
 }
