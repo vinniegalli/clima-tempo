@@ -4,7 +4,7 @@ function App() {
 
   const api = {
     token : '632e6d609944d6dfae45d1740b8ff66e',
-    base : 'http://api.openweathermap.org/data/2.5/',
+    base : 'https://api.openweathermap.org/data/2.5/',
     lang : 'pt_br',
     units : 'metrics',
   }
